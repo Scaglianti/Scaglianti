@@ -25,6 +25,6 @@
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-lucas-scaglianti-camilo-ferreira-a5653537b/?skipRedirect=true)](https://www.linkedin.com/in/pedro-lucas-scaglianti-camilo-ferreira-a5653537b/?skipRedirect=true)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/plscaglianti/)](https://www.linkedin.com/in/plscaglianti/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:plscaglianti@gmail.com)](mailto:plscaglianti@gmail.com)
 [![GitHub](https://img.shields.io/github/followers/Scaglianti?label=follow&style=social)](https://github.com/Scaglianti)
