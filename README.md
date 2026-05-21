@@ -1,9 +1,9 @@
 ## Sobre mim
 
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 🤔 Explorando novas tecnologias e estudando desenvolvimento de software e firmware para sistemas embarcados.
 - 🎓 Estudando Ciência da Computação no IFCE.
-- 💼 Aspiro trabalhar na área de embarcados no desenvolvimento de software de automóveis.
-- 🌱 Aprendendo mais sobre linguagem C e, futuramente, C++ e Ruby.
+- 💼 Aspiro atuar na área de sistemas embarcados, especialmente no desenvolvimento de software automotivo.
+- 🌱 Atualmente aprofundando conhecimentos em C e futuramente estudando C++, Rust e sistemas embarcados.
 
 ## Minhas Skills
 
